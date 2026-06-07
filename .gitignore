@@ -1,0 +1,12 @@
+node_modules
+dist
+.DS_Store
+.vscode
+
+# local env and logs
+.env
+npm-debug.log*
+*.log
+
+# IDE config
+.idea/
